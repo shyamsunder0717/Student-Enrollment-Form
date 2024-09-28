@@ -1,6 +1,7 @@
 # **Student Enrollment Form**
 
 The **Student Enrollment Form** project is a web-based application that enables easy management and enrollment of student data. This project features a fully interactive form where users can input, retrieve, and update student information using a streamlined interface. It is designed to simplify student data management for schools or educational institutions by providing a seamless experience for administrators.
+![Student-Enrollment-Form](https://github.com/shyamsunder0717/student-form/blob/main/front-page-screenshot.png)
 
 ## **Key Features**
 
