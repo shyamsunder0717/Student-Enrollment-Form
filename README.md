@@ -49,3 +49,6 @@ To run this project locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/shyamsunder0717/student-form.git
+   
+2. Ensure that you have a valid connection token for **login2explore** and configure it in the script **(connToken)**.
+3. Run the project by opening the index.html file in your browser.
